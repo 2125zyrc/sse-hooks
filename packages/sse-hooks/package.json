@@ -1,6 +1,6 @@
 {
   "name": "@zyrc/sse-hooks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React hooks for SSE (Server-Sent Events) with plugin system",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -21,5 +21,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2125zyrc/sse-hooks.git",
+    "directory": "packages/sse-hooks"
+  },
+  "homepage": "https://github.com/2125zyrc/sse-hooks",
   "license": "MIT"
 }
